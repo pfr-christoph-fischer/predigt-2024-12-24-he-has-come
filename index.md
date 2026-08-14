@@ -10,9 +10,9 @@ series: Weihnachtszeit 2024-25
 summary: "Wenn Weihnachten wirklich das Fest von Liebe, Freude und Frieden ist, dann ist Weihnachten in Gefahr! Jetzt kann nur noch Gott uns retten."
 source: pfarrplaner
 source_id: "127@planer.pfarr.tools"
-cover: cover.
+cover: he-has-come.jpg
 cover_alt: "Titelbild zur Predigt \"He has come\"."
-audio: audio.mp3
+audio: he-has-come.mp3
 audio_duration: "17:50"
 legacy_id: 474
 events:
